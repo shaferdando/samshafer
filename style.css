@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Shafers Home Page</title>
+		<link rel="stylesheet" href="style.css">
+
+		<div class="topnav">
+	<a class="active" href="#home">Home</a>
+	<a href="asf.html">About Me</a>
+	<a href="academics.html">Academics</a>
+	<a href="#contact">Contact</a>
+	
+	</head>
+	<body class="b">
+	<h1>Welcome to the Shafer Page!</h1>
+	<p> Look around the navigation bar to learn about me.</p>
+	<img src="213.png">
